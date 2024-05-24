@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/Eval_check.props" />
+</Project>

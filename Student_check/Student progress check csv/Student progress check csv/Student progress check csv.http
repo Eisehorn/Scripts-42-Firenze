@@ -1,0 +1,6 @@
+@Student_progress_check_csv_HostAddress = http://localhost:5144
+
+GET {{Student_progress_check_csv_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,36 @@
+/Users/fgiuliano/Desktop/42Roma/Student_check/Student progress check csv/Student progress check csv/bin/Debug/net8.0/appsettings.Development.json
+/Users/fgiuliano/Desktop/42Roma/Student_check/Student progress check csv/Student progress check csv/bin/Debug/net8.0/appsettings.json
+/Users/fgiuliano/Desktop/42Roma/Student_check/Student progress check csv/Student progress check csv/bin/Debug/net8.0/Student progress check csv
+/Users/fgiuliano/Desktop/42Roma/Student_check/Student progress check csv/Student progress check csv/bin/Debug/net8.0/Student progress check csv.deps.json
+/Users/fgiuliano/Desktop/42Roma/Student_check/Student progress check csv/Student progress check csv/bin/Debug/net8.0/Student progress check csv.runtimeconfig.json
+/Users/fgiuliano/Desktop/42Roma/Student_check/Student progress check csv/Student progress check csv/bin/Debug/net8.0/Student progress check csv.dll
+/Users/fgiuliano/Desktop/42Roma/Student_check/Student progress check csv/Student progress check csv/bin/Debug/net8.0/Student progress check csv.pdb
+/Users/fgiuliano/Desktop/42Roma/Student_check/Student progress check csv/Student progress check csv/bin/Debug/net8.0/DotNetEnv.dll
+/Users/fgiuliano/Desktop/42Roma/Student_check/Student progress check csv/Student progress check csv/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/fgiuliano/Desktop/42Roma/Student_check/Student progress check csv/Student progress check csv/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/fgiuliano/Desktop/42Roma/Student_check/Student progress check csv/Student progress check csv/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/fgiuliano/Desktop/42Roma/Student_check/Student progress check csv/Student progress check csv/bin/Debug/net8.0/Sprache.dll
+/Users/fgiuliano/Desktop/42Roma/Student_check/Student progress check csv/Student progress check csv/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/fgiuliano/Desktop/42Roma/Student_check/Student progress check csv/Student progress check csv/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/fgiuliano/Desktop/42Roma/Student_check/Student progress check csv/Student progress check csv/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/fgiuliano/Desktop/42Roma/Student_check/Student progress check csv/Student progress check csv/obj/Debug/net8.0/Student progress check csv.csproj.AssemblyReference.cache
+/Users/fgiuliano/Desktop/42Roma/Student_check/Student progress check csv/Student progress check csv/obj/Debug/net8.0/Student progress check csv.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fgiuliano/Desktop/42Roma/Student_check/Student progress check csv/Student progress check csv/obj/Debug/net8.0/Student progress check csv.AssemblyInfoInputs.cache
+/Users/fgiuliano/Desktop/42Roma/Student_check/Student progress check csv/Student progress check csv/obj/Debug/net8.0/Student progress check csv.AssemblyInfo.cs
+/Users/fgiuliano/Desktop/42Roma/Student_check/Student progress check csv/Student progress check csv/obj/Debug/net8.0/Student progress check csv.csproj.CoreCompileInputs.cache
+/Users/fgiuliano/Desktop/42Roma/Student_check/Student progress check csv/Student progress check csv/obj/Debug/net8.0/Student progress check csv.MvcApplicationPartsAssemblyInfo.cs
+/Users/fgiuliano/Desktop/42Roma/Student_check/Student progress check csv/Student progress check csv/obj/Debug/net8.0/Student progress check csv.MvcApplicationPartsAssemblyInfo.cache
+/Users/fgiuliano/Desktop/42Roma/Student_check/Student progress check csv/Student progress check csv/obj/Debug/net8.0/staticwebassets.build.json
+/Users/fgiuliano/Desktop/42Roma/Student_check/Student progress check csv/Student progress check csv/obj/Debug/net8.0/staticwebassets.development.json
+/Users/fgiuliano/Desktop/42Roma/Student_check/Student progress check csv/Student progress check csv/obj/Debug/net8.0/staticwebassets/msbuild.Student progress check csv.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/fgiuliano/Desktop/42Roma/Student_check/Student progress check csv/Student progress check csv/obj/Debug/net8.0/staticwebassets/msbuild.build.Student progress check csv.props
+/Users/fgiuliano/Desktop/42Roma/Student_check/Student progress check csv/Student progress check csv/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Student progress check csv.props
+/Users/fgiuliano/Desktop/42Roma/Student_check/Student progress check csv/Student progress check csv/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Student progress check csv.props
+/Users/fgiuliano/Desktop/42Roma/Student_check/Student progress check csv/Student progress check csv/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/fgiuliano/Desktop/42Roma/Student_check/Student progress check csv/Student progress check csv/obj/Debug/net8.0/scopedcss/bundle/Student progress check csv.styles.css
+/Users/fgiuliano/Desktop/42Roma/Student_check/Student progress check csv/Student progress check csv/obj/Debug/net8.0/Student progress check csv.csproj.CopyComplete
+/Users/fgiuliano/Desktop/42Roma/Student_check/Student progress check csv/Student progress check csv/obj/Debug/net8.0/Student progress check csv.dll
+/Users/fgiuliano/Desktop/42Roma/Student_check/Student progress check csv/Student progress check csv/obj/Debug/net8.0/refint/Student progress check csv.dll
+/Users/fgiuliano/Desktop/42Roma/Student_check/Student progress check csv/Student progress check csv/obj/Debug/net8.0/Student progress check csv.pdb
+/Users/fgiuliano/Desktop/42Roma/Student_check/Student progress check csv/Student progress check csv/obj/Debug/net8.0/Student progress check csv.genruntimeconfig.cache
+/Users/fgiuliano/Desktop/42Roma/Student_check/Student progress check csv/Student progress check csv/obj/Debug/net8.0/ref/Student progress check csv.dll

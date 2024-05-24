@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/Student progress check csv.props" />
+</Project>

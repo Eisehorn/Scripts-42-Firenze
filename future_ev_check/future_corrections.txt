@@ -1,0 +1,41 @@
+
+
+Attenzione: orario indietro di 120 minuti causa settaggi internazionali!
+
+[
+  {
+    "login": "nbidal",
+    "corrector": "cbaroi",
+    "data": "2024-04-19T09:00:00.000Z"
+  },
+  {
+    "login": "nbidal",
+    "corrector": "kfaye",
+    "data": "2024-04-19T07:45:00.000Z"
+  },
+  {
+    "login": "nbidal",
+    "corrector": "aconti",
+    "data": "2024-04-19T07:45:00.000Z"
+  },
+  {
+    "login": "nbidal",
+    "corrector": "kfaye",
+    "data": "2024-04-19T06:30:00.000Z"
+  },
+  {
+    "login": "nbidal",
+    "corrector": "aconti",
+    "data": "2024-04-19T06:30:00.000Z"
+  },
+  {
+    "login": "nbidal",
+    "corrector": "cbaroi",
+    "data": "2024-04-19T06:00:00.000Z"
+  },
+  {
+    "login": "lfai",
+    "corrector": "snovakov",
+    "data": "2024-04-18T13:45:00.000Z"
+  }
+]

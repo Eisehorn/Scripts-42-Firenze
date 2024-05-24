@@ -1,0 +1,6 @@
+@Eval_check_HostAddress = http://localhost:5297
+
+GET {{Eval_check_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
